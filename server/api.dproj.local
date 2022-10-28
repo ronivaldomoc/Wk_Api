@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/10/21 22:29:58.000.773,=C:\Users\Roni\Documents\Embarcadero\Studio\Projects\Project2\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2022/10/21 22:29:58.000.391,=C:\Users\Roni\Documents\Embarcadero\Studio\Projects\Project2\FormUnit1.pas</Transaction>
+    <Transaction>2022/10/21 22:30:01.000.850,=C:\Users\Roni\Documents\Embarcadero\Studio\Projects\Project2\ServerContainerUnit1.pas</Transaction>
+    <Transaction>2022/10/21 22:30:17.000.067,=C:\Users\Roni\Documents\Embarcadero\Studio\Projects\Project2\WebModuleUnit1.pas</Transaction>
+    <Transaction>2022/10/21 22:30:21.000.955,=C:\Users\Roni\Documents\Embarcadero\Studio\Projects\Project2\js\base64-min.js</Transaction>
+    <Transaction>2022/10/21 22:30:21.000.815,=C:\Users\Roni\Documents\Embarcadero\Studio\Projects\Project2\js\base64.js</Transaction>
+    <Transaction>2022/10/21 22:30:21.000.846,=C:\Users\Roni\Documents\Embarcadero\Studio\Projects\Project2\js\serverfunctionexecutor.js</Transaction>
+    <Transaction>2022/10/21 22:30:21.000.861,=C:\Users\Roni\Documents\Embarcadero\Studio\Projects\Project2\js\json2.js</Transaction>
+    <Transaction>2022/10/21 22:30:21.000.893,=C:\Users\Roni\Documents\Embarcadero\Studio\Projects\Project2\js\callbackframework.js</Transaction>
+    <Transaction>2022/10/21 22:30:21.000.924,=C:\Users\Roni\Documents\Embarcadero\Studio\Projects\Project2\js\serverfunctions.js</Transaction>
+    <Transaction>2022/10/21 22:30:22.000.158,=C:\Users\Roni\Documents\Embarcadero\Studio\Projects\Project2\js\serverfunctioninvoker.js</Transaction>
+    <Transaction>2022/10/21 22:30:22.000.002,=C:\Users\Roni\Documents\Embarcadero\Studio\Projects\Project2\js\json2-min.js</Transaction>
+    <Transaction>2022/10/21 22:30:22.000.033,=C:\Users\Roni\Documents\Embarcadero\Studio\Projects\Project2\js\serverfunctionexecutor-min.js</Transaction>
+    <Transaction>2022/10/21 22:30:22.000.190,=C:\Users\Roni\Documents\Embarcadero\Studio\Projects\Project2\css\main.css</Transaction>
+    <Transaction>2022/10/21 22:30:22.000.330,=C:\Users\Roni\Documents\Embarcadero\Studio\Projects\Project2\templates\serverfunctioninvoker.html</Transaction>
+    <Transaction>2022/10/21 22:30:22.000.408,=C:\Users\Roni\Documents\Embarcadero\Studio\Projects\Project2\images\expand.png</Transaction>
+    <Transaction>2022/10/21 22:30:22.000.080,=C:\Users\Roni\Documents\Embarcadero\Studio\Projects\Project2\js\callbackframework-min.js</Transaction>
+    <Transaction>2022/10/21 22:30:22.000.283,=C:\Users\Roni\Documents\Embarcadero\Studio\Projects\Project2\templates\reversestring.html</Transaction>
+    <Transaction>2022/10/21 22:30:22.000.111,=C:\Users\Roni\Documents\Embarcadero\Studio\Projects\Project2\js\connection.js</Transaction>
+    <Transaction>2022/10/21 22:30:22.000.361,=C:\Users\Roni\Documents\Embarcadero\Studio\Projects\Project2\images\collapse.png</Transaction>
+    <Transaction>2022/10/21 22:30:22.000.221,=C:\Users\Roni\Documents\Embarcadero\Studio\Projects\Project2\css\serverfunctioninvoker.css</Transaction>
+    <Transaction>2022/10/21 22:31:40.000.309,C:\wk\server\view\uPrincipal.dfm=C:\Users\Roni\Documents\Embarcadero\Studio\Projects\Project2\FormUnit1.dfm</Transaction>
+    <Transaction>2022/10/21 22:31:40.000.309,C:\wk\server\view\uPrincipal.pas=C:\Users\Roni\Documents\Embarcadero\Studio\Projects\Project2\FormUnit1.pas</Transaction>
+    <Transaction>2022/10/21 22:32:43.000.823,C:\wk\server\bin\WebModuleUnit1.pas=C:\Users\Roni\Documents\Embarcadero\Studio\Projects\Project2\WebModuleUnit1.pas</Transaction>
+    <Transaction>2022/10/21 22:32:43.000.823,C:\wk\server\bin\WebModuleUnit1.dfm=C:\Users\Roni\Documents\Embarcadero\Studio\Projects\Project2\WebModuleUnit1.dfm</Transaction>
+    <Transaction>2022/10/21 22:32:54.000.761,C:\wk\server\bin\ServerContainerUnit1.pas=C:\Users\Roni\Documents\Embarcadero\Studio\Projects\Project2\ServerContainerUnit1.pas</Transaction>
+    <Transaction>2022/10/21 22:32:54.000.761,C:\wk\server\bin\ServerContainerUnit1.dfm=C:\Users\Roni\Documents\Embarcadero\Studio\Projects\Project2\ServerContainerUnit1.dfm</Transaction>
+    <Transaction>2022/10/21 22:33:04.000.050,C:\wk\server\bin\ServerMethodsUnit1.pas=C:\Users\Roni\Documents\Embarcadero\Studio\Projects\Project2\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2022/10/21 22:33:04.000.050,C:\wk\server\bin\ServerMethodsUnit1.dfm=C:\Users\Roni\Documents\Embarcadero\Studio\Projects\Project2\ServerMethodsUnit1.dfm</Transaction>
+    <Transaction>2022/10/21 22:34:25.000.292,C:\wk\server\api.dproj=C:\Users\Roni\Documents\Embarcadero\Studio\Projects\Project2\Project2.dproj</Transaction>
+    <Transaction>2022/10/21 22:36:00.000.267,=C:\wk\class\controls\Db_ctrl.pas</Transaction>
+    <Transaction>2022/10/21 22:36:23.000.990,=C:\wk\class\controls\Pessoa_ctrl.pas</Transaction>
+    <Transaction>2022/10/21 22:36:23.000.941,=C:\wk\class\controls\Pessoa.ctrl.pas</Transaction>
+    <Transaction>2022/10/21 22:36:34.000.806,=C:\wk\class\models\Pessoa.model.pas</Transaction>
+    <Transaction>2022/10/22 20:31:46.000.260,=C:\wk\class\models\Endereco.model.pas</Transaction>
+    <Transaction>2022/10/22 20:35:29.000.454,=C:\wk\server\Unit1.pas</Transaction>
+    <Transaction>2022/10/22 20:37:45.000.678,C:\wk\server\Unit1.pas=C:\wk\class\controls\Pessoa.endereco.pas</Transaction>
+    <Transaction>2022/10/22 20:40:31.000.182,C:\wk\class\controls\Pessoa.endereco.pas=C:\wk\class\controls\Endereco.ctrl.pas</Transaction>
+    <Transaction>2022/10/22 21:00:37.000.891,=C:\wk\class\models\Endereco_inetgracao.model.pas</Transaction>
+    <Transaction>2022/10/22 21:13:18.000.013,=C:\wk\class\controls\endereco_inetgracao.ctrl.pas</Transaction>
+    <Transaction>2022/10/22 21:14:45.000.665,C:\wk\class\controls\endereco_inetgracao.ctrl.pas=</Transaction>
+    <Transaction>2022/10/22 21:15:28.000.693,=C:\wk\class\controls\Endereco_integracao.ctrl.pas</Transaction>
+    <Transaction>2022/10/22 21:17:01.000.537,C:\wk\class\models\Endereco_inetgracao.model.pas=</Transaction>
+    <Transaction>2022/10/22 21:17:41.000.117,=C:\wk\class\models\Endereco_integracao.model.pas</Transaction>
+  </Transactions>
+</BorlandProject>
