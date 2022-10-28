@@ -1,0 +1,10 @@
+object ServerMethods1: TServerMethods1
+  OldCreateOrder = False
+  OnCreate = DataModuleCreate
+  Height = 150
+  Width = 215
+  object FDPhysPgDriverLink1: TFDPhysPgDriverLink
+    Left = 56
+    Top = 24
+  end
+end
